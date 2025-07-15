@@ -10,10 +10,8 @@
   },
   "dependencies": {
     "react": "^19.1.0",
-    "react-dom/client": "19.1.0",
     "react-dom": "^19.1.0",
-    "@google/genai": "latest",
-    "@vercel/node": "^5.3.5"
+    "@google/genai": "latest"
   },
   "devDependencies": {
     "@types/node": "^22.14.0",
